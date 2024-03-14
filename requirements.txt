@@ -1,0 +1,7 @@
+tensorflow
+numpy
+opencv-python-headless
+patchify
+matplotlib
+keras
+pillow
